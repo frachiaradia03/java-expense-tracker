@@ -1,0 +1,15 @@
+# Maven
+target/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Personal application data
+data/*.csv
+
+# Temporary files
+*.tmp
+*.log
